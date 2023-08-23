@@ -45,5 +45,5 @@ GFRdiseasedAgedynamic_montecarlo.in.R: this is the simulation file for the GFR c
 GFRcompromiseAgeSimulaiton.R: this file uses the compiled model file of “Agedynamics_NFThuman.model.R’  and simulates the various GFR conditions. 
 
 For the manuscript all the generated data from corresponding model file can be found in Posterior_chains (for each model version you will find four chains of posterior distributions) and one posterior simulation as an output. 
-The folder “Mansucript_figure” includes all the figures and the code to generate the figures that uses the data available in Posterior chains folder. 
+The folder “Manuscript_figure” includes all the figures and the code to generate the figures that uses the data available in Posterior chains folder. 
 
